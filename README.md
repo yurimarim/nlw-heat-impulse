@@ -36,6 +36,7 @@ yarn dev
 - Jsonwebtoken
 - Socket.io
 - Cors
+- TS | JS
 
 ## Licença e Autor
 
