@@ -14,7 +14,7 @@
 
 ## Sobre
 
-**DoWhile2021 -> Back-end (Node.js).** trata-se de um projeto realizado durante um evento da Rocketseat - Next Level Week Heat: Trilha Impulse 🚀🔥
+**DoWhile2021 -> Back-end [Node.js].** trata-se de um projeto realizado durante um evento da Rocketseat - Next Level Week Heat: Trilha Impulse 🚀🔥
 
 ## Rodar projeto
 - Na pasta do projeto rodar:
